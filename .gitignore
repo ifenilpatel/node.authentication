@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+
+# Upload
+uploads/
+
+# Environment files
+.env.development
+.env.production
+
+# Log files
+*.log
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Miscellaneous
+*.tgz
